@@ -33,6 +33,6 @@
     "typescript": "^4.8.4"
   },
   "engines": {
-    "yarn": "3.x"
+    "yarn": "2.x"
   }
 }
