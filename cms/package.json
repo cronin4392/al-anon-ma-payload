@@ -35,5 +35,5 @@
   "engines": {
     "yarn": "2.x"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@1.22.19"
 }
